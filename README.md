@@ -8,8 +8,8 @@ For at *lege* med denne repository så skal du følgende nedenstående instrukto
 
 1.	Tjek din mail, du har fået en invitation til Github
 2.	Opret en konto hos Github
-3.	Download og installerer git fra www.git-scm.com
-4.	Download **Github Desktop Application** og installer denne på din PC. <br> NB: Når du starter Github Desktop Application så log ind med den konto du har oprettet hos Github.
+3.	Download og installerer **Git** fra www.git-scm.com
+4.	Download **Github Desktop Application** fra: https://desktop.github.com/ og installer denne på din PC. <br> NB: Når du starter Github Desktop Application så log ind med den konto du har oprettet hos Github.
 5.	Download og installer evt. Visual Studio Code (eller Notepad++)
 6.	Når du er inde i Github Desktop Application, da vælg `File > Clone Repository > Vælg denne repository og download den til din PC under:` **C:/Repos/** 
 7.	Tilbage i Github Desktop Application da vælg: `Open the editor in your external editor > vælg Options > Under integrations vælg:` Notepad++ (eller visual studio code)
