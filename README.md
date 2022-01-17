@@ -1,4 +1,4 @@
-# Test.Repository
+# Demo-Test.Repository
 Formålet med denne repository er at komme i gang med Github.
 <br>
 For at *lege* med denne repository så skal du følgende nedenstående instruktor. 
