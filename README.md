@@ -1,7 +1,7 @@
 # Demo-Test.Repository
 Formålet med denne repository er at komme i gang med Github.
 <br>
-For at *lege* med denne repository så skal du følge nedenstående instruktor. 
+For at *lege* med denne repository så skal du følge nedenstående instrukser. 
 <br>
 
 ## RKKP Github – Start Guide
@@ -17,7 +17,7 @@ For at *lege* med denne repository så skal du følge nedenstående instruktor.
 5.	Download og installerer **Github Desktop Application** fra: https://desktop.github.com/ 
 <br> NB: Når du starter Github Desktop Application så log ind med den konto du har oprettet hos Github.
 
-7.	Når du er inde i programmet Github Desktop Application, da vælg `File > Clone Repository > Vælg denne repository (jf navnet) og download den til din PC under:
+7.	Når du er inde i programmet Github Desktop Application, da vælg `File > Clone Repository > Vælg denne repository (jf navnet på denne repository) og download den til din PC under:
 ` **C:/Repos/** 
 
 8.	Tilbage i Github Desktop Application vælg: `Open the editor in your external editor > vælg Options > Under integrations vælg:` Visual Studio Code eller eks. Notepad.
